@@ -1,23 +1,19 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Ashutosh+Krishna;I+love+building+things+that+live+on+the+internet">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Doan+Anh+Hieu;I+love+building+things+that+live+on+the+internet">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ashutoshkrris/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/doan-anh-hieu-a982a6225/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/ashutoshkrris/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.twitter.com/ashutoshkrris/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.github.com/ashutoshkrris/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
+  <code><a href="https://www.twitter.com/hieuda87/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.github.com/HieuAnh87/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
 </h5>
 
-I'm currently working as an Application Developer at Thoughtworks. Outside work, I occasionally blog on [Medium](https://ashutoshkrris.medium.com) to help beginners learn new topics.
-<img align="right" alt="Ashutosh Krishna" src="https://i.imgur.com/Dg5p9rR.png" />
+I'm currently working as an Software Developer at ...
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ashutoshkrris&label=Views&color=blue&style=plastic" alt="ashutoshkrris" /> 
-  &nbsp;&nbsp;&nbsp;<a href="https://ko-fi.com/Y8Y320QYE"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
-</p>
+
 
 ## 🔧 Tools & Technologies
 <code><img title="C" height="25" src="images/c.svg"></code>
