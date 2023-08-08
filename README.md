@@ -18,47 +18,20 @@ I'm currently working as an Software Developer at ...
 ## 🔧 Technical Skill
 ### **Languages**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <code><img title="C" height="25" src="images/c.svg"></code>
 ### **Frameworks & Libraries**
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 
-### **Database Management**
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white). ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLITE3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white).
-
+### **Database Management & Others**
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLITE3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white
+)
 ### **Version Control** 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white). ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)   
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)   
 
 ### **Design**
 
 
-<code><img title="Django" height="25" src="images/django.png"></code>
-<code><img title="Flask" height="25" src="images/flask.png"></code>
-<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="CSS" height="25" src="images/css.svg"></code>
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
-<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-<code><img title="Java" height="25" src="images/java-original.svg"></code>
-<code><img title="JSON" height="25" src="images/json.svg"></code>
-<code><img title="GitHub" height="25" src="images/github.svg"></code>
-<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-
-
-<!--😊
-**ashutoshkrris/ashutoshkrris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to the JSON Module in Python](https://python.plainenglish.io/a-beginners-guide-to-the-json-module-in-python-1bddf3c20b0f?source=rss-b66584c2ea41------2)
-- [How To Download YouTube Playlist Using Python](https://python.plainenglish.io/how-to-download-youtube-playlist-using-python-4e832989e017?source=rss-b66584c2ea41------2)
-- [A Beginner’s Guide to Strategy Design Pattern](https://ashutoshkrris.medium.com/a-beginners-guide-to-strategy-design-pattern-b5b618b74d2e?source=rss-b66584c2ea41------2)
-- [SOLID Principles for Better Software Design](https://ashutoshkrris.medium.com/solid-principles-for-better-software-design-c261985407d8?source=rss-b66584c2ea41------2)
-- [Mastering List Destructuring and Packing in Python: A Comprehensive Guide](https://python.plainenglish.io/mastering-list-destructuring-and-packing-in-python-a-comprehensive-guide-53e70867ce59?source=rss-b66584c2ea41------2)
-<!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
 
@@ -66,54 +39,26 @@ I'm currently working as an Software Developer at ...
 <p align="center"><br><i>It's unlucky to be superstitious.</i><br></p>
 <!-- ADVICE:END -->
 
-## Badges Earned on DEV
-
-Checkout my DEV Profile [@ashutoshkrris](https://dev.to/ashutoshkrris)
-
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=100></a>
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width=100></a>
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width=100></a>
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7LzjnbaB--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/9/2year-Badge-shadow__1_.png" width=100></a>
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width=100></a>
-
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/ashutoshkrris/ashutoshkrris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkrris&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/HieuAnh87/hieuanh87">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuAnh87&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/ashutoshkrris/ashutoshkrris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshkrris&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ashutosh's GitHub Stats" />
+<a href="https://github.com/HieuAnh87/hieuanh87">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HieuAnh87&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="hieuanh87's GitHub Stats" />
 </a>
 <br/><br/>
 
-[![Ashutosh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashutoshkrris&theme=rogue)](https://github.com/ashutoshkrris)
-
+[![HieuAnh87's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HieuAnh87&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/><br/>
-![Ashutosh's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkrris) 
+![HieuAnh87's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HieuAnh87) 
 
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashutoshkrris)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HieuAnh87)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
-<div>
-  <a align="left" href="https://github.com/ashutoshkrris/COVID-19-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=COVID-19-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a align="left" href="https://github.com/ashutoshkrris/iRead">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=iRead&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a align="right" href="https://github.com/ashutoshkrris/Amazon-Price-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=Amazon-Price-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a align="right" href="https://github.com/ashutoshkrris/YouTube-Trending-Videos-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=YouTube-Trending-Videos-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-</div>
 
 <div align="center">
 
