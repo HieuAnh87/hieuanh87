@@ -11,7 +11,13 @@
   <code><a href="https://www.github.com/HieuAnh87/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
 </h5>
 
-I'm currently working as an Software Developer at ...
+I'm currently working as an Software Developer at ... I love the whole process of solving problems by building websites, apps or softwares. I find it very rewarding to be able to see and experience the end result. Check out all of my projects below! 👇
+
+- 🔭 I’m currently working on python, java
+- 🌱 I’m currently learning JS, NodeJS
+- 🤔 I’m looking for: a mentor
+- 💬 What could I talk for 30 minutes about with absolutely no preparation?: parenting, professional/personal growth, python
+- ⚡ Fun fact: I'm a terrible singer but love singing
 
 
 
@@ -29,7 +35,8 @@ I'm currently working as an Software Developer at ...
 ### **Version Control** 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-### **Design**
+### **Platform**
+
 
 
 
