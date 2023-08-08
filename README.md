@@ -17,9 +17,8 @@ I'm currently working as an Software Developer at ...
 
 ## 🔧 Technical Skill
 ### **Languages**
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="CSS" height="25" src="images/css.svg"></code>
-<code><img title="Python" height="25" src="images/python-original.svg"></code>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 <code><img title="C" height="25" src="images/c.svg"></code>
 
 <code><img title="Django" height="25" src="images/django.png"></code>
